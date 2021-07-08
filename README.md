@@ -1,2 +1,2 @@
 # Leetcode
-code for financial engineering 
+Coding Exercises for Financial Engineering
