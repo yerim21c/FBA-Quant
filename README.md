@@ -1,2 +1,2 @@
-# Leetcode
-Coding Exercises for Financial Engineering
+# FBA Quant
+Leetcode: Coding Exercises for Financial Engineering
